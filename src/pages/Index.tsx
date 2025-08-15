@@ -61,7 +61,7 @@ export default function Index() {
       <section className="py-20 px-6 text-center">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-            Найди свою половинку
+            Найди пару для шитья
           </h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
             Знакомства нового поколения с детальными анкетами и умным поиском по интересам
