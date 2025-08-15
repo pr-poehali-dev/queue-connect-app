@@ -42,7 +42,7 @@ export default function Index() {
       {/* Navigation */}
       <nav className="flex items-center justify-between p-6 border-b border-border/50 backdrop-blur-sm bg-background/80">
         <div className="flex items-center space-x-2">
-          <Icon name="Heart" size={28} className="text-primary" />
+          <Icon name="Activity" size={28} className="text-primary" />
           <h1 className="text-2xl font-bold text-primary">ССХ ОХиТА</h1>
         </div>
         <div className="hidden md:flex items-center space-x-8">
@@ -245,7 +245,7 @@ export default function Index() {
       <footer className="py-12 px-6 border-t border-border/50">
         <div className="max-w-6xl mx-auto text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
-            <Icon name="Heart" size={24} className="text-primary" />
+            <Icon name="Activity" size={24} className="text-primary" />
             <span className="text-xl font-bold text-primary">ССХ ОХиТА</span>
           </div>
           <p className="text-muted-foreground mb-6">
